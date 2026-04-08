@@ -29,6 +29,14 @@ Even though this project is frontend-only, it helped me understand how these dif
 ```bash
 git clone https://github.com/satyamkumar3150/Villagers_Hub.git
 
+
+Note:
+Sign in and Cart button are not fully working
+Home page: Twitter, Instagram, Facebook buttons are not working 
+Contact page: Only data is entered not saved in a server 
+Menu page: Only food chooses not ordering and no cart value change
+
+
 ## AI Declaration
 
 I used AI tools (ChatGPT) to help project description and documentation.
